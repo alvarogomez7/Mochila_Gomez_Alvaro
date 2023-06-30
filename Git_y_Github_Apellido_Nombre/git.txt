@@ -1,0 +1,12 @@
+a- Quien invento el sistema de control de version git y por qué?
+<para el desarrollo del kernel de Linux.
+
+b-A quien pertenece actualmente Github?
+ GitHub es propiedad de Microsoft
+
+c-¿Hay otra forma que no sea la terminal para trabajar con Github?
+Interfaz web de GitHub: Puedes acceder a tu repositorio de GitHub a través del sitio web de GitHub. Desde allí, puedes realizar acciones como crear y clonar repositorios, subir archivos, crear ramas, fusionar cambios, abrir y revisar solicitudes de extracción, gestionar problemas, colaborar en proyectos, entre otras funcionalidades.
+
+Aplicación de escritorio de GitHub: GitHub proporciona una aplicación de escritorio para Windows y macOS que ofrece una interfaz gráfica para trabajar con tus repositorios de GitHub. La aplicación te permite clonar repositorios, realizar cambios, sincronizar con el repositorio remoto y colaborar con otros usuarios.
+
+Extensiones e integraciones: Hay varias herramientas y extensiones que ofrecen una integración directa con GitHub. Por ejemplo, puedes utilizar extensiones de Git en entornos de desarrollo integrados (IDE) como Visual Studio Code o utilizar herramientas de gestión de proyectos como Jira o Trello que se integran con GitHub. 
